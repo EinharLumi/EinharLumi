@@ -1,16 +1,29 @@
-## Hi there 👋
+# ⌨️ EinharLumi
 
-<!--
-**EinharLumi/EinharLumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ℹ️ About Me
+- **Pronouns:** He/Him
+- **Hobbies:** Programming, Linux, Anime, Gaming
+- **Languages:** English, French
+- **Usual Server:** Safe server
+- **Fav spots:** Library, East Campfire
 
-Here are some ideas to get you started:
+### 🎨 Most Used Characters
+| Name | Type | Description |
+| :--- | :--: | :--- |
+| irl me [French] | irl | My best attempt at making myself |
+| Einhar Lumi | OC | My first OC, av made by someone I love dearly |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Boundaries
+- **Kissing:** Never
+- **Cuddles:** Fine-ish
+- **Hiding:** Sure
+- **Boop:** Sure
+- **Whispers:** Sure
+- **Public chat:** Sure
+
+### ❌ DNI
+- Anyone that discriminates (racism, sexism, homophobia... you get it)
+- PDF files (ew)
+
+### 🔗 Connect
+- **Discord:** `einharlumin`
