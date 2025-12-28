@@ -33,4 +33,4 @@
 
 ---
 
-![](https://hitscounter.dev/user/EinharLumi)
+![](https://u8views.com/api/v1/github/profiles/EinharLumi/views/plastic.svg?v=1)
