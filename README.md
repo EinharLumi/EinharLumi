@@ -33,4 +33,4 @@
 
 ---
 
-![](https://u8views.com/api/v1/github/profiles/EinharLumi/views/plastic.svg?v=1)
+![Profile Views](https://komarev.com/ghpvc/?username=EinharLumi&color=00FF00&style=flat)
